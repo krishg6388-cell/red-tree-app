@@ -1,0 +1,7 @@
+{
+  "name": "R.E.D Tree",
+  "description": "Visual UI foundation for study-focus app R.E.D Tree (Resist • Engage • Develop)",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

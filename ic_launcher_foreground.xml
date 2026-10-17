@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Tree Trunk -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M52,60h4v20h-4z" />
+    <!-- Tree Foliage -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M54,28 L68,46 L60,46 L72,62 L36,62 L48,46 L40,46 Z" />
+    <!-- Glowing Star on Top -->
+    <path
+        android:fillColor="#FFD600"
+        android:pathData="M54,22 L55.5,25.5 L59,26 L56.5,28.5 L57,32 L54,30 L51,32 L51.5,28.5 L49,26 L52.5,25.5 Z" />
+</vector>
